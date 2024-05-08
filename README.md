@@ -1,60 +1,27 @@
-<!-- Header -->
-<div align="center">
-  <h1>Hi there, I'm Saheel! <span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
-</h1>
-  <p>Front-end Developer | Python Enthusiast | Database Explorer 🚀</p>
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
-</div>
+# 💫 About Me:
+I’m currently working on Advance Front end devlopment project<br><br>🌱 I’m currently learning Front end devlopment<br><br>👯 I’m looking to collaborate on Front end developer<br><br>🤝 I’m looking for help with creating Responsive web pages <br><br>👨‍💻 All of my projects are available at https://github.com/saheel03-saheel<br><br>📝 I regularly write articles on https://saheel.blogspot.com/<br><br>💬 Ask me about Html, css, javscript, reactjs<br><br>📫 How to reach me https://www.linkedin.com/in/saheel/<br><br>📄 Know about my experienceshttps://drive.google.com/drive/folders/1VZNmbyMMspr7-zsNVnV9nuewcqrVFiGF?usp=drive_link
 
-<!-- Skills Section -->
-## Skills
-<div align="center">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
- <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
- <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> 
-  <img src="1_Fcb8NTqTBj7kCONnmF5wgQ.gif" alt="MySQL" title="MySQL" width="100">
- <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-</div>
-
-<!-- Projects Section -->
-## Projects
-- [Project 1](link_to_project_1): Description of Project 1.
-- [Project 2](link_to_project_2): Description of Project 2.
-- [Project 3](link_to_project_3): Description of Project 3.
-
-<!-- Contact Section -->
-## Let's Connect
-<div align="center">
-  <a href="mailto:your_email@example.com"><img src="email_icon.png" alt="Email" title="Email" width="50" height="50"></a>
-  <a href="link_to_your_linkedin_profile"><img src="linkedin_icon.png" alt="LinkedIn" title="LinkedIn" width="50" height="50"></a>
-  <a href="link_to_your_twitter_profile"><img src="twitter_icon.png" alt="Twitter" title="Twitter" width="50" height="50"></a>
-</div>
-
-<!-- Footer -->
-<div align="center">
-  <p>Feel free to explore my projects and reach out for collaborations!</p>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your_username.your_repo_name" alt="Visitors" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+<br><br>
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/saheel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_saheel03_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saheel) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saheel) 
 
-Generates a snake game from a github user contributions graph
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sahee;&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sahee;&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sahee;&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sahee;&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+[![](https://visitcount.itsvg.in/api?id=sahee;&icon=5&color=11)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
