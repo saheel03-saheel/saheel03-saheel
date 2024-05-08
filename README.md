@@ -2,20 +2,20 @@
 <div align="center">
   <h1>Hi there, I'm Saheel! <span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 </h1>
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
   <p>Front-end Developer | Python Enthusiast | Database Explorer 🚀</p>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
 </div>
 
 <!-- Skills Section -->
 ## Skills
 <div align="center">
-  <img src="" alt="HTML" title="HTML" width="50" height="50">
-  <img src="css_icon.png" alt="CSS" title="CSS" width="50" height="50">
-  <img src="javascript_icon.png" alt="JavaScript" title="JavaScript" width="50" height="50">
-  <img src="react_icon.png" alt="React.js" title="React.js" width="50" height="50">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+ <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+ <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"> 
   <img src="mysql_icon.png" alt="MySQL" title="MySQL" width="50" height="50">
-  <img src="python_icon.png" alt="Python" title="Python" width="50" height="50">
-  <img src="mongodb_icon.png" alt="MongoDB" title="MongoDB" width="50" height="50">
+ <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 </div>
 
 <!-- Projects Section -->
